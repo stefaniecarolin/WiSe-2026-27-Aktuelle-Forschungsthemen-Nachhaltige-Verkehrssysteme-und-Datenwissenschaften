@@ -3,7 +3,5 @@
 ## 26.11.2026
 
 What? 
-
-Why?
-
-Result:
+Why?  
+Result:  
